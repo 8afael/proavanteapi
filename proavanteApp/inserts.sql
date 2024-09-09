@@ -1,0 +1,2 @@
+-- SQLite
+insert into dashboard (ticker, conpany, actualValue, dy12m, dy3m, lpa, lucroLiquidom, patrimonioLiquido, acoesEmitidas) VALUES ("PETR3","Petrobrás",42.33,0,0,6.04,188328000000.00,407636000000,13044496930);
